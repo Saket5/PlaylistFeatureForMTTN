@@ -23,6 +23,7 @@
 		8D2F9321250573EB0031F37F /* YoutubeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D2F9320250573EB0031F37F /* YoutubeCell.swift */; };
 		8D2F9323250574650031F37F /* UIextensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D2F9322250574650031F37F /* UIextensions.swift */; };
 		BB36A511252337B90061F99F /* PlaylistLinks.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB36A510252337B90061F99F /* PlaylistLinks.swift */; };
+		BB881BF02525B4CC00AEB7A0 /* SpotifyCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB881BEF2525B4CC00AEB7A0 /* SpotifyCell.swift */; };
 		E0E752A8E4A80FA605B56F37 /* Pods_PlaylistFeatureforMTTN.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B589FA23E0354A51173136F5 /* Pods_PlaylistFeatureforMTTN.framework */; };
 /* End PBXBuildFile section */
 
@@ -47,6 +48,7 @@
 		B2D47841B8048A021B6B232A /* Pods-PlaylistFeatureforMTTN.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PlaylistFeatureforMTTN.release.xcconfig"; path = "Target Support Files/Pods-PlaylistFeatureforMTTN/Pods-PlaylistFeatureforMTTN.release.xcconfig"; sourceTree = "<group>"; };
 		B589FA23E0354A51173136F5 /* Pods_PlaylistFeatureforMTTN.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PlaylistFeatureforMTTN.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB36A510252337B90061F99F /* PlaylistLinks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistLinks.swift; sourceTree = "<group>"; };
+		BB881BEF2525B4CC00AEB7A0 /* SpotifyCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpotifyCell.swift; sourceTree = "<group>"; };
 		EF7AB851367597DE6660C5D7 /* Pods-PlaylistFeatureforMTTN.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PlaylistFeatureforMTTN.debug.xcconfig"; path = "Target Support Files/Pods-PlaylistFeatureforMTTN/Pods-PlaylistFeatureforMTTN.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -103,6 +105,7 @@
 				8D2F93102505735C0031F37F /* Twitter */,
 				8D2F930F250573550031F37F /* Instagram */,
 				8D2F930E2505734E0031F37F /* Youtube */,
+				BB881BEF2525B4CC00AEB7A0 /* SpotifyCell.swift */,
 			);
 			path = Socials;
 			sourceTree = "<group>";
@@ -278,6 +281,7 @@
 				8D2F931B250573C30031F37F /* InstagramCollectionViewCell.swift in Sources */,
 				BB36A511252337B90061F99F /* PlaylistLinks.swift in Sources */,
 				8D2F92FB250572FE0031F37F /* ViewController.swift in Sources */,
+				BB881BF02525B4CC00AEB7A0 /* SpotifyCell.swift in Sources */,
 				8D2F931F250573E00031F37F /* YoutubeCollectionViewCell.swift in Sources */,
 				8D2F92F7250572FE0031F37F /* AppDelegate.swift in Sources */,
 				8D2F92F9250572FE0031F37F /* SceneDelegate.swift in Sources */,
