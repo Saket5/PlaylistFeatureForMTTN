@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -90,11 +90,11 @@
 		06B2BDCCED23D6C0F27664348061C9D4 /* BLTNBoard.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BLTNBoard.h; path = Sources/BLTNBoard.h; sourceTree = "<group>"; };
 		0F974E411F37915BBAB57B17388DEF76 /* FittedSheets-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FittedSheets-dummy.m"; sourceTree = "<group>"; };
 		106F37C8794CA8155F2912F54B37646E /* BulletinViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BulletinViewController.swift; path = Sources/Support/BulletinViewController.swift; sourceTree = "<group>"; };
-		1623841C0B84742C767A4FAD81FFEA65 /* Pods_PlaylistFeatureforMTTN.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PlaylistFeatureforMTTN.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1623841C0B84742C767A4FAD81FFEA65 /* Pods_PlaylistFeatureforMTTN.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_PlaylistFeatureforMTTN.framework; path = "Pods-PlaylistFeatureforMTTN.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		166B9E2166C8803A62FC407C93833780 /* Pods-PlaylistFeatureforMTTN-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-PlaylistFeatureforMTTN-Info.plist"; sourceTree = "<group>"; };
 		1F88160ACEE6B03C09DEBA976EA1406F /* FittedSheets-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FittedSheets-umbrella.h"; sourceTree = "<group>"; };
 		1FA449E39BDB9AF79639BB835B31CB41 /* Pods-PlaylistFeatureforMTTN.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PlaylistFeatureforMTTN.debug.xcconfig"; sourceTree = "<group>"; };
-		21AAE79511133937606E376EE52BED4F /* FittedSheets.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FittedSheets.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		21AAE79511133937606E376EE52BED4F /* FittedSheets.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FittedSheets.framework; path = FittedSheets.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2608980B213E16E128625894E1CCF9FA /* Pods-PlaylistFeatureforMTTN.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-PlaylistFeatureforMTTN.modulemap"; sourceTree = "<group>"; };
 		2931C4FC02D64F27DFEB1E86763E8FAF /* BulletinBoard-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "BulletinBoard-Info.plist"; sourceTree = "<group>"; };
 		2AF71050974D54B04DE658892B3EAB25 /* BLTNItemAppearance.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BLTNItemAppearance.swift; path = Sources/Appearance/BLTNItemAppearance.swift; sourceTree = "<group>"; };
@@ -131,7 +131,7 @@
 		8EFC188DFD92C13E11F5F82007874467 /* FittedSheets.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FittedSheets.debug.xcconfig; sourceTree = "<group>"; };
 		9769B9FD224B1B5EFAC7B49C107F26EC /* BulletinPresentationAnimationController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BulletinPresentationAnimationController.swift; path = Sources/Support/Animations/BulletinPresentationAnimationController.swift; sourceTree = "<group>"; };
 		9AC31D2EA2DA9C4FAB350041CFDA73C0 /* Yalta.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Yalta.swift; path = FittedSheetsPod/Yalta.swift; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9ECE45A546EFC87DDA2A058DA2974ECA /* BLTNBackgroundViewStyle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BLTNBackgroundViewStyle.swift; path = Sources/Appearance/BLTNBackgroundViewStyle.swift; sourceTree = "<group>"; };
 		A03500A65C10FD950590DF26DBFD2384 /* UIColor+Luminance.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIColor+Luminance.swift"; path = "Sources/Support/Helpers/UIColor+Luminance.swift"; sourceTree = "<group>"; };
 		A26CED2FAAF4B2EB39CB6DF5FEE71D26 /* FittedSheets.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FittedSheets.release.xcconfig; sourceTree = "<group>"; };
@@ -149,7 +149,7 @@
 		BD359E94E2D07C91536BFA741C009AF0 /* BulletinBoard-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BulletinBoard-umbrella.h"; sourceTree = "<group>"; };
 		BE1BF2E8ED1C55ABCA1C19802D93DE56 /* FittedSheets-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FittedSheets-Info.plist"; sourceTree = "<group>"; };
 		C15F2CAB15C8F08380CDFF9CA7A8FB57 /* BulletinCloseButton.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BulletinCloseButton.swift; path = Sources/Support/Views/Internal/BulletinCloseButton.swift; sourceTree = "<group>"; };
-		C5FC4EC27B0970F708A6473BCFDA3C50 /* BLTNBoard.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = BLTNBoard.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C5FC4EC27B0970F708A6473BCFDA3C50 /* BLTNBoard.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = BLTNBoard.framework; path = BulletinBoard.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C611D8735377ED677A1E1E735DC89F4C /* Highlighter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Highlighter.swift; path = Sources/Support/Views/Internal/Highlighter.swift; sourceTree = "<group>"; };
 		D2346D3AE82F789428FB2346F617AD76 /* Deprecations.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Deprecations.swift; path = Sources/Deprecations.swift; sourceTree = "<group>"; };
 		DAC0900C1FF59AC1F2F91D5FD0148E81 /* ActivityIndicator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ActivityIndicator.swift; path = Sources/Support/Views/Internal/ActivityIndicator.swift; sourceTree = "<group>"; };
@@ -207,6 +207,7 @@
 				9AC31D2EA2DA9C4FAB350041CFDA73C0 /* Yalta.swift */,
 				1D7D33528AFF2FC37AA3B27598202218 /* Support Files */,
 			);
+			name = FittedSheets;
 			path = FittedSheets;
 			sourceTree = "<group>";
 		};
@@ -303,6 +304,7 @@
 				83BEC301E8C1929A68E5B659EFC1B779 /* UIView+SafeAnchors.swift */,
 				160D439EA98407CFEA6502770651B0BE /* Support Files */,
 			);
+			name = BulletinBoard;
 			path = BulletinBoard;
 			sourceTree = "<group>";
 		};
@@ -454,7 +456,7 @@
 				LastUpgradeCheck = 1100;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 10.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -858,15 +860,12 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A56BBBBDC3BF61FFD24C653930C09261 /* BulletinBoard.debug.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = YQEC2ZY373;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -882,8 +881,6 @@
 				MODULEMAP_FILE = "Target Support Files/BulletinBoard/BulletinBoard.modulemap";
 				PRODUCT_MODULE_NAME = BLTNBoard;
 				PRODUCT_NAME = BLTNBoard;
-				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
